@@ -1,3 +1,0 @@
-from lognormal import LogNormalCatalog
-
-__all__ = ['LogNormalCatalog']
