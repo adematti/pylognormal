@@ -1,5 +1,5 @@
-pylognormal - Pythonic code to produce lognormal mocks
-======================================================
+pylognormal - Python code to produce lognormal mocks
+====================================================
 
 Introduction
 ------------
